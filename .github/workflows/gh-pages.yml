@@ -21,6 +21,9 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Copy CV document
+        run: cp README.md content/document.md
+
       - name: Build
         run: hugo --minify
 

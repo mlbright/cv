@@ -37,7 +37,7 @@ My skills and areas of expertise include:
 
 ### Codacy site administrator
 
-- Service reliability for Codacy's self-hosted edition
+- Service reliability for [Codacy's][codacy] self-hosted edition
 - Migration from an on-premise 2-tier application to a Kubernetes cluster in AWS
 
 *Skills applied or learned:*
@@ -173,3 +173,4 @@ Casero was taken over by [Radialpoint][radialpoint], which was eventually taken 
 [alias]: https://en.wikipedia.org/wiki/Autodesk_Alias 
 [mudbox]: https://en.wikipedia.org/wiki/Autodesk_Mudbox
 [linkedin]: https://www.linkedin.com/in/martinbright/
+[codacy]: https://www.codacy.com/
