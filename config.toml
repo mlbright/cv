@@ -142,10 +142,10 @@ name = "CV"
 weight = 4
 url = "document/"
 
-# [[languages.en.menu.main]]
-# name = "Contact me"
-# weight = 5
-# url = "contact/"
+[[languages.en.menu.main]]
+name = "Contact me"
+weight = 5
+url = "contact/"
 
 # [languages.pt-br]
 # languageName = ":brazil:"

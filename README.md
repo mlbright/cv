@@ -1,11 +1,3 @@
-# Martin-Louis Bright
-
-# Contact information
-
-- mlbright@gmail.com
-- [linkedin.com/in/martinbright][linkedin]
-- Toronto, Ontario, Canada
-
 # Summary
 
 I am a highly adaptable, consummate, self-driven, and bilingual (English/French) information technology professional with over 20 years experience in a variety of settings including software development, health care, entertainment, and higher education.
