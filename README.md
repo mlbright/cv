@@ -1,12 +1,12 @@
 # Martin-Louis Bright
 
-## Contact information
+# Contact information
 
 - mlbright@gmail.com
 - [linkedin.com/in/martinbright][linkedin]
 - Toronto, Ontario, Canada
 
-## Summary
+# Summary
 
 I am a highly adaptable, consummate, self-driven, and bilingual (English/French) information technology professional with over 20 years experience in a variety of settings including software development, health care, entertainment, and higher education.
 Embracing [devops culture and practices][devops], I have a track record of successfully using programming and system administration skills to provide effective solutions to IT problems.
@@ -22,13 +22,13 @@ My skills and areas of expertise include:
 - Technical support
 - Translation (French/English)
 
-## Experience
+# Experience
 
-### Senior Software Engineer (Autodesk Inc.)
+## Senior Software Engineer (Autodesk Inc.)
 
 > Apr 2017 - Present (4 years 4 months+)
 
-#### GitHub Enterprise site administrator
+### GitHub Enterprise site administrator
 
 - Service reliability and performance for over 4000 engineers
 - Development and maintenance of a set of GitHub Apps and services that integrate with [GHES][ghes]
@@ -43,7 +43,7 @@ My skills and areas of expertise include:
 - Amazon Web Services (AWS)
 - Website development (Hugo)
 
-#### Codacy site administrator
+### Codacy site administrator
 
 - Service reliability for Codacy's self-hosted edition
 - Migration from an on-premise 2-tier application to a Kubernetes cluster in AWS
@@ -57,7 +57,7 @@ My skills and areas of expertise include:
 - Amazon Web Services (AWS)
 - PostgreSQL
 
-#### Code Collaborator site administrator
+### Code Collaborator site administrator
 
 - Service reliability for 100 users
 - Integration with GitHub Enterprise
@@ -69,7 +69,7 @@ My skills and areas of expertise include:
 - Site reliability engineering
 - Amazon Web Services (AWS)
 
-### Build And Release Engineer (Autodesk Inc.)
+## Build And Release Engineer (Autodesk Inc.)
 
 > Mar 2010 - Mar 2017 (7 years 1 month)
 
@@ -82,7 +82,7 @@ Developed and maintained build and testing pipelines for a half-dozen products, 
 - Linux and Windows system administration
 - [VMware vSphere][vsphere]
 
-### Build Master (AppHelp by AppDirect)
+## Build Master (AppHelp by AppDirect)
 
 > May 2009 - Feb 2010 (10 months)
 
@@ -91,7 +91,7 @@ Casero was taken over by [Radialpoint][radialpoint], which was eventually taken 
 - Technical support
 - Build and release engineering
 
-### Build and Integration Engineer (Casero Inc.)
+## Build and Integration Engineer (Casero Inc.)
 
 > Dec 2007 - Apr 2009 (1 year 5 months)
 
@@ -101,7 +101,7 @@ Casero was taken over by [Radialpoint][radialpoint], which was eventually taken 
 - Programming (python, bash, ant)
 - Linux system administration
 
-### Tools Developer (Casero Inc.)
+## Tools Developer (Casero Inc.)
 
 > Aug 2007 - Dec 2007 (5 months)
 
@@ -110,7 +110,7 @@ Casero was taken over by [Radialpoint][radialpoint], which was eventually taken 
 - Programming (Bash/Perl)
 - Linux system administration
 
-### Consultant (Keane NTT)
+## Consultant (Keane NTT)
 
 > Mar 2006 - Aug 2007 (1 year 6 months)
 
@@ -122,7 +122,7 @@ Casero was taken over by [Radialpoint][radialpoint], which was eventually taken 
 - Technical support
 - Scripting (Perl, Bash)
 
-### Desktop Support Specialist (Famous Players)
+## Desktop Support Specialist (Famous Players)
 
 > Jul 2004 - Nov 2005 (1 year 5 months)
 
@@ -134,7 +134,7 @@ Casero was taken over by [Radialpoint][radialpoint], which was eventually taken 
 - Computer hardware upgrades
 - Printer maintenance
 
-### Programmer/Analyst (University of Toronto)
+## Programmer/Analyst (University of Toronto)
 
 > Feb 1999 - Feb 2004 (5 years 1 month)
 
@@ -145,7 +145,7 @@ Casero was taken over by [Radialpoint][radialpoint], which was eventually taken 
 - Programming/scripting: Perl/VBA
 - Software development life cycle
 
-### Software support (ICES)
+## Software support (ICES)
 
 > 1996 - 1998 (2 summers)
 
@@ -158,9 +158,9 @@ Casero was taken over by [Radialpoint][radialpoint], which was eventually taken 
    - RAM
    - Motherboards
 
-## Education
+# Education
 
-### University of Toronto - Honours Bachelor of Science
+## University of Toronto - Honours Bachelor of Science
 
 > 1995 - 2002
 
