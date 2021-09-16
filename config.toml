@@ -15,7 +15,7 @@ enableEmoji = true
 author = "Martin-Louis Bright"
 description = "Martin-Louis Bright's CV site"
 keywords = "developer,resume,cv"
-info = ["Programming", "Linux System administration", "Devops"]
+info = ["Programming", "Linux System Administration", "Devops"]
 # avatarURL = "images/avatar.jpg"
 # gravatar = "john.doe@example.com"
 # footerContent = "Enter a text here."
@@ -142,10 +142,10 @@ name = "CV"
 weight = 4
 url = "document/"
 
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
+# [[languages.en.menu.main]]
+# name = "Contact me"
+# weight = 5
+# url = "contact/"
 
 # [languages.pt-br]
 # languageName = ":brazil:"
