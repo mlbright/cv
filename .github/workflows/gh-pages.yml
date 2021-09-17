@@ -24,6 +24,11 @@ jobs:
       - name: Copy CV document
         run: cp README.md content/document.md
 
+      - name: Convert to PDF
+        uses: docker://pandoc/ubuntu-latex:2.14.1
+        with:
+          args: -o static/mlbright-cv.pdf README.md
+
       - name: Build
         run: hugo --minify
 
