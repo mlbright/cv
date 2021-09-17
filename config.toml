@@ -1,4 +1,4 @@
-baseURL = "http://mlbright.github.io/cv"
+baseURL = "http://mlbright.github.io/cv/"
 title = "cv/résumé"
 theme = "hugo-coder"
 languageCode = "en"
@@ -146,7 +146,7 @@ url = "html/"
 [[languages.en.menu.main]]
 name = "pdf"
 weight = 5
-url = "pdf/"
+url = "https://mlbright.github.io/cv/mlbright-cv.pdf"
 
 # [languages.pt-br]
 # languageName = ":brazil:"
