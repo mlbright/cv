@@ -22,7 +22,7 @@ jobs:
           extended: true
 
       - name: Copy CV document
-        run: cp README.md content/document.md
+        run: cp README.md content/html.md
 
       - name: Convert to PDF
         uses: docker://pandoc/ubuntu-latex:2.14.1
